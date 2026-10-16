@@ -5,6 +5,8 @@ A transistor-level **FPGA configurable logic block (CLB)** containing one basic 
 Final project for **ESE 5700 – Digital Integrated Circuits and VLSI**, University of Pennsylvania, Fall 2024.
 Author: **Kai Segimoto**
 
+**[Read the full report →](REPORT.md)**
+
 ## Interface
 
 - **Inputs:** `clk`, `load` (SRAM write enable), `data` (serial configuration bitstream), `LUT select<3:0>`
@@ -33,6 +35,5 @@ Author: **Kai Segimoto**
 
 ## Files
 
-- `Proj 2 Report.docx`: full design report with schematics, transistor sizing, functional and timing simulations, and the energy, area and FoM calculations
-
-Download the report to view it, since GitHub does not render `.docx` files.
+- [`REPORT.md`](REPORT.md): the full design report, readable on GitHub. It covers schematics, transistor sizing, functional and timing simulations, and the energy, area and FoM calculations. Figures are in `report_images/`.
+- `Proj 2 Report.docx`: the original Word report
