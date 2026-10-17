@@ -2,8 +2,6 @@
 
 ESE 5700 Digital Integrated Circuits and VLSI · Kai Segimoto · Fall 2024
 
-> Markdown version of [`Proj 2 Report.docx`](Proj%202%20Report.docx) for reading on GitHub. The original Word file is in this repository.
-
 **Design Problem**: Design the circuit-level implementation of a configurable logic block (CLB) comprised of a single basic logic element (BLE) using your LUT implemented in HW 7.
 
 **Inputs**: clk, load (high when loading SRAM data), data (serial input of bitstream to load into SRAM), LUT select \<3:0\> and a single output: Out
