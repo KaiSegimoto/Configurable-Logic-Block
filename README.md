@@ -2,8 +2,6 @@
 
 A transistor-level **FPGA configurable logic block (CLB)** containing one basic logic element. It has a 16-bit 6T SRAM configuration array, a serial-load shift register, a 4-input pass-transistor look-up table (LUT) and an output D flip-flop. It was designed in **45 nm CMOS** with Cadence Virtuoso.
 
-Final project for **ESE 5700 – Digital Integrated Circuits and VLSI**, University of Pennsylvania, Fall 2024.
-Author: **Kai Segimoto**
 
 **[Read the full report →](REPORT.md)**
 
